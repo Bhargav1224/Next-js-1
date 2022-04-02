@@ -1,0 +1,49 @@
+.container {
+  width: 80%;
+  height: 90vh;
+  border-radius: 10px;
+  /* border: 1px solid gray; */
+  margin: auto;
+}
+.title {
+  text-align: center;
+}
+.container1 {
+  width: 30%;
+  height: 40px;
+  border-radius: 10px;
+  /* border: 1px solid gray; */
+  margin: auto;
+  display: flex;
+  margin-top: 10px;
+}
+.input {
+  margin-left: 30px;
+  width: 80%;
+}
+.button,
+.completedBtn {
+  width: 30%;
+  height: 40px;
+  border-radius: 10px;
+  background-color: rgb(47, 141, 105);
+  color: white;
+  outline: none;
+  border: none;
+  text-align: center;
+  cursor: pointer;
+  margin: auto;
+  font-size: 18px;
+  margin-left: 10px;
+}
+.completedBtn {
+  color: orange;
+}
+.todoscontainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: auto;
+  margin-left: 500px;
+  margin-top: 30px;
+}
