@@ -16,3 +16,12 @@
 
 ![pre-rendering](https://user-images.githubusercontent.com/77038785/161386659-ab318a97-7d9b-4c07-8fed-64a062c6d49d.png)
 
+![pre-rendering2](https://user-images.githubusercontent.com/77038785/161387156-378adfc6-297a-4b7f-90e3-175b433837b5.png)
+
+![pre-rendering-3](https://user-images.githubusercontent.com/77038785/161387170-50c39d85-ea51-420f-9ded-e601c52616b6.png)
+
+## Search Engine Optimization (SEO)
+
+![pre-rendering-4](https://user-images.githubusercontent.com/77038785/161387180-c9b26dd8-1f25-4fa1-bd7c-a37d4dcee6f9.png)
+
+![SE0](https://user-images.githubusercontent.com/77038785/161387206-93b01f67-44f3-4ecb-8e29-55370f4a5e2c.png)
