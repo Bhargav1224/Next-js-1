@@ -12,7 +12,7 @@
 ## TODO APP
 ![todos](https://user-images.githubusercontent.com/77038785/161383989-00c8733e-e958-4aa1-904b-ab5cd76bc7f7.png)
 
+## PRE-RENDERING
 
-
-
+![pre-rendering](https://user-images.githubusercontent.com/77038785/161386659-ab318a97-7d9b-4c07-8fed-64a062c6d49d.png)
 
