@@ -6,5 +6,9 @@ This is a [Next.js](https://nextjs.org/)
 ### Navigation Programatically
 ![navigation](https://user-images.githubusercontent.com/77038785/161380326-32015f88-99c3-430c-9914-23db5982d286.png)
 
+### Routing summery
+![routingsummery](https://user-images.githubusercontent.com/77038785/161380778-9467c3fd-bf89-4624-8c0a-eca91e6a95aa.png)
+
+
 
 
